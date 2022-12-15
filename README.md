@@ -108,10 +108,9 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Authors
 <details>
-    <summary>Theophilus Ifeoluwa</summary>
+    <summary>ONAH CHIEMEZIE DENNIS</summary>
     <ul>
-    <li><a href="https://www.github.com/Theo-flux">Github</a></li>
-    <li><a href="https://www.twitter.com/theoflux_uiux">Twitter</a></li>
-    <li><a href="mailto:ekunnusitheophilus@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/dennisdon678">Github</a></li>
+    <li><a href="mailto:dennisdon678@gmail.com">e-mail</a></li>
     </ul>
 </details>
